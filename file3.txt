@@ -1,2 +1,1 @@
-Hi, This is file only in developer3.
-update by dev1
+conflict fix
