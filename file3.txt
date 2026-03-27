@@ -1,2 +1,1 @@
-Hi, This is file only in developer3.
-conflict dev3
+conflict fix
